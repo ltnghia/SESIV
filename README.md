@@ -1,2 +1,2 @@
-# SESIV
-Benchmark Dataset and Evaluation Code for Video Semantic Salient Instance Segmentation
+# Evaluation Code for Video Semantic Salient Instance Segmentation
+Coming soon ...
