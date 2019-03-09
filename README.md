@@ -1,4 +1,4 @@
-Evaluation Code for Video Semantic Salient Instance Segmentation
+Benchmark Dataset and Evaluation Code for Video Semantic Salient Instance Segmentation
 =====================================================================================
 
 ![](SESIV.jpg)
