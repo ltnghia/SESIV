@@ -5,7 +5,7 @@ Benchmark Dataset and Evaluation Code for Video Semantic Salient Instance Segmen
 
 This project is based on [DAVIS Challenge Evaluation Code](https://github.com/davisvideochallenge/davis-matlab).
 
-Raw dataset is be downloaded from [DAVIS Challenge website](https://davischallenge.org/davis2016/code.html). Our SESIV annotation and baseline results are downloaded from [my website](https://sites.google.com/view/ltnghia/research/sesiv).
+Raw dataset is downloaded from [DAVIS Challenge website](https://davischallenge.org/davis2016/code.html). Our SESIV annotation and baseline results are downloaded from [my website](https://sites.google.com/view/ltnghia/research/sesiv).
 
 Citation
 --------------
