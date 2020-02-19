@@ -26,4 +26,7 @@ Please cite the following papers:
       year = {2017}
     }
 
+------------------
+The code is used for academic purpose only.
+
 Contact: [Trung-Nghia Le](https://sites.google.com/view/ltnghia).
